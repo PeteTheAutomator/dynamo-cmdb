@@ -3,7 +3,7 @@ import os
 from setuptools import setup
 
 setup(
-    name='audit',
+    name='dynamo-cmdb',
     version='0.1.0',
     description='AWS DynamoDB CMDB',
     url='https://github.com/PeteTheAutomator/dynamo-cmdb.git',
