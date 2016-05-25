@@ -16,7 +16,6 @@ setup(
     include_package_data=True,
     scripts=[
         'scripts/audit',
-        'scripts/query',
     ],
     classifiers=[
         'Development Status :: Beta',
